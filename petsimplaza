@@ -18,7 +18,7 @@ getgenv().Settings = {
             --["Golden Huge Player Fox"] = {Class = "Pet", Price = "-5%"},
             --["Rainbow Huge Player Fox"] = {Class = "Pet", Price = "-6%"},
             ["Shiny Huge Player Fox"] = {Class = "Pet", Price = "-4%"},
-	    ["Hellfire Gift"] = {Class = "LootBox", Price = "1%"},
+	    ["Hellfire Gift"] = {Class = "Lootbox", Price = "-3%"},
             ["Millionaire Bucks"] = {Class = "Misc", Price = "-8%"},
         },
         Serverhop = {
